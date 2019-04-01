@@ -2,8 +2,6 @@
 
 """Mastermind Game with AI"""
 
-__author__ = "Pierre-Victor Chaumier (chaumierpv@gmail.com)"
-
 import random
 import re
 
